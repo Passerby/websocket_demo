@@ -1,0 +1,19 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    em-websocket (0.5.1)
+      eventmachine (>= 0.12.9)
+      http_parser.rb (~> 0.6.0)
+    eventmachine (1.0.8)
+    http_parser.rb (0.6.0)
+    multi_json (1.11.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  em-websocket
+  multi_json
+
+BUNDLED WITH
+   1.10.6
